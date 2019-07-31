@@ -30,6 +30,7 @@ transform: rotate(90deg);
 animation: bouncearrow 1s infinite;
 color:#FF0000;
 
+
 }
 @keyframes bouncearrow{
     0%{left: 0px;}
@@ -129,3 +130,6 @@ footer{
 a{
     color:#FF0000
   }
+.container{
+    display: flex;
+}
